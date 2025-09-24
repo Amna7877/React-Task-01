@@ -1,0 +1,11 @@
+.footer{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+background-color: #333;
+color: white;
+padding: 2rem;
+gap: 1rem;
+}
+
+.footer div{
+text-align: center;}
