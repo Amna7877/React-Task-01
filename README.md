@@ -16,7 +16,7 @@ This assignment demonstrates props, event handling, and component-based structur
 ---
 🌍 Live Demo & Repository
 
-🔗 Live Site (Netlify): Foodiee Delights
+🔗 Live Site (Netlify): https://react-task-01-components.netlify.app
 
 💻 Source Code (GitHub): https://github.com/Amna7877/React-Task-01
 
